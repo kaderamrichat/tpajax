@@ -15,7 +15,6 @@ Ps : plus on avance dans les exercices & moins il y aura d'explication dans la d
 
 2. Depuis le fichier HTML, créer un bouton avec un id pour qu'au clic on affiche le contenu du fichier txt.
 
----
 ## EXO2 : AJAX DEPUIS UN FICHIER JSON
 1. Créer un fichier user.json au même niveau que l'index.html qui contiendra un id, un nom et un prénom.
 
