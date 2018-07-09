@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Exercices Ajax</h1>
-    
+
 <h2>Exo 1 : A partir d'un fichier txt</h2>
 <button id="getTxt-btn">Ajax -> txt</button>
 <div id="exo1"></div>
@@ -27,6 +27,11 @@
 
 
 <form action="data.php" method="POST" id="post-form">
+    <input type="text" name="name" id="name" value="" placeholder="Enter a word...">
+    <input type="submit" value="OK" name="submit" id="submit-form">
+</form>
+
+<form action="data.php" method="POST" id="post-form2">
     <input type="text" name="name" id="name" value="" placeholder="Enter a word...">
     <input type="submit" value="OK" name="submit" id="submit-form">
 </form>
